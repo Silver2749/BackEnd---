@@ -98,10 +98,6 @@ While this project is currently a monolithic application, here are potential imp
 
 These considerations can be implemented as the application grows and user demand increases.
 
-## 📝 License
-
-This project is open source and available for educational purposes.
-
 ## 👤 Author
 
 [Silver2749/Shane Braganza](https://github.com/Silver2749)
